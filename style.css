@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(129, 199, 101);
+    width: 1000px;
+    height: 700px;
+}
+.quadradobranco{
+   
+    padding-top: 55px;
+    display: inline-block;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+           
+}
+.nome, .senha{
+
+
+    margin-top: auto;
+    background: rgba(242, 237, 237, 0.974);
+    color: gray;
+    width: 300px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-left: 5px;
+    padding-top: 10px;
+    border:gray;
+
+}
+.botao{
+    border:rgb(37, 161, 37);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background: rgb(37, 161, 37);
+    color: white;
+    width: 300px;
+    height: 45px;
+}
+.final {
+    
+    background: white;
+    color: gray;
+    padding-left: 90px;
+   
+}
+ .criar{
+    
+    background: white;
+    color: rgb(37, 161, 37);
+    padding-left: 2px;
+}
